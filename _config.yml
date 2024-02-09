@@ -3,16 +3,16 @@ title: Caleb Logan
 description: Caleb Logan's portfolio
 # Prod
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://caleblogan.dev" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://www.caleblogan.dev" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 # Local / Dev
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Caleb Logan
-user_description: I am a software engineer focusing on web development. I'm currently finished up a B.S. in Computer Science at the WGU. I plan to graduate on 3/2024.
+user_description: I am a software engineer three years of professional development. I'm currently finishing up a B.S. in Computer Science at WGU. I plan to graduate on 3/2024.
 user_title: Software Engineer
-email: clogan202@gmail.com
+email: logan.caleb@icloud.com
 github_username:  caleblogan
 linkedin_url: https://www.linkedin.com/in/caleb-logan-26075877/
 
